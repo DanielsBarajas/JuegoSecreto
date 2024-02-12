@@ -1,4 +1,4 @@
-/*
+
 let numeroSecreto = 0;
 let numeroIntentos = 0;
 let numerosAleatorio = [];
@@ -74,10 +74,10 @@ function reiniciarJuego() {
     
 }
 ordenInicio();
-*/
+
 
 //Desafio listas
-
+/*
 let listaGenerica = [];
 let lenguajesProgramacion = ['javaScript','C','C++','Kotlin','Python'];
 let listaNumeros = [1,2,3,4,5,11,7,8];
@@ -133,7 +133,7 @@ function numeroMayor(){
     
 }
 
-
+*/
 
 //Desafio Reiniciando el juego.
 
